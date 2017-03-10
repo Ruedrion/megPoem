@@ -2,9 +2,9 @@ html{
     background: url("floral_pattern2-1.png") no-repeat center fixed; 
     background-size: cover;
     -webkit-animation-name: change; /* Safari 4.0 - 8.0 */
-    -webkit-animation-duration: 20s; /* Safari 4.0 - 8.0 */
+    -webkit-animation-duration: 30s; /* Safari 4.0 - 8.0 */
     animation-name: change;
-    animation-duration: 20s;
+    animation-duration: 30s;
     animation-iteration-count: infinite;
 }
 body{
