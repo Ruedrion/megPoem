@@ -17,16 +17,18 @@ body{
     0%{background-color:#ffffff}
     25% {background-color: #9e9e9e;}
 
-    50% {background-color: #000000;)
+    50% {background-color: #000000;}
         75% {background-color: #9e9e9e;}        
     100% {background-color: #ffffff;}
 }
 
 @keyframes change {
-    0% {background-color: #ffffff;}
-    50% {background-color: #000000;}
+    0% {background-color: #ffffff;} 
+    25% {background-color: #9e9e9e;}
+    50% {background-color: #000000;} 
+    75% {background-color: #9e9e9e;}
     100% {background-color: #ffffff;}
-}
+        }
 #poem{
     width: 100%;
     min-height: 100%;
